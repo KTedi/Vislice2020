@@ -1,6 +1,6 @@
 # Vislice2020
 
-Ivan Vidov
+Borut Pahor
 Josip Plemelj
 Jurij Vega
 Anton Suhadolc
